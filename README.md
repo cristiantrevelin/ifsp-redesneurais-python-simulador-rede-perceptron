@@ -1,0 +1,2 @@
+# ifsp-redesneurais-python-simulador-rede-perceptron
+O projeto se trata de um simulador de uma rede neural perceptron simples, de um único neurônio, para a classificação de classes linearmente separáveis. Foi desenvolvido para Windows e suporta "bancos de dados" no formato de arquivos .xlsx e .ods, formatados na forma: Coluna de entrada 1, Coluna de entrada 2, ..., Coluna de entrada N, Saída desejada.

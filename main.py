@@ -1,0 +1,9 @@
+# ARQUIVO DO PROGRAMA PRINCIPAL.
+
+# IMPORTAÇÕES NECESSÁRIAS:__________________________________________________________________________________
+
+from Modules.ct_perceptron_view import *
+
+# EXECUÇÃO:_________________________________________________________________________________________________
+
+play_perceptron_nn_simulator()
